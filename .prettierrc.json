@@ -1,0 +1,15 @@
+{
+  "bracketSpacing": false,
+  "proseWrap": "never",
+  "singleQuote": true,
+  "trailingComma": "all",
+
+  "overrides": [
+    {
+      "files": ["*.ts", "*.tsx"],
+      "options": {
+        "printWidth": 120
+      }
+    }
+  ]
+}
